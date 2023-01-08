@@ -1,0 +1,7 @@
+#iostream<iostream>
+{
+  int num = 10;
+  std::cout << "hello world!" << std::endl;
+  std::cout << num << std::endl;
+  return 0;
+  
